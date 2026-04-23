@@ -1,0 +1,415 @@
+[{
+"title":"Introduction to Radiology",
+"description":"Overview of imaging principles and diagnostic applications.",
+"subjectId":"69857b2353683e8b81ca91b3",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/radiology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces the foundations of radiology, including imaging modalities and clinical uses.",
+"quiz":[{"question":"Which imaging modality is commonly used for bone fractures","choices":["MRI","Ultrasound","X-ray"],"correctAnswerIndex":2}]
+},
+{
+"title":"Advanced Concepts in Radiology",
+"description":"Exploring deeper imaging techniques and interpretation skills.",
+"subjectId":"69857b2353683e8b81ca91b3",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/radiology-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced radiological interpretation and clinical case analysis.",
+"quiz":[{"question":"Which imaging technique provides the highest soft-tissue contrast","choices":["CT","MRI","X-ray"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Neurology",
+"description":"Overview of the nervous system and neurological disorders.",
+"subjectId":"69857b2353683e8b81ca91bb",
+"doctorId":"698545777898f1262ac3c1e7",
+"file":{"url":"https://example.com/neurology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces the structure and function of the nervous system.",
+"quiz":[{"question":"Which part of the brain controls balance","choices":["Cerebellum","Frontal lobe","Medulla"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Neurological Disorders",
+"description":"Deep dive into complex neurological diseases.",
+"subjectId":"69857b2353683e8b81ca91bb",
+"doctorId":"698545777898f1262ac3c1e7",
+"file":{"url":"https://example.com/neurology-advanced.pdf","type":"pdf"},
+"content":"This lecture explores advanced neurological disorders and diagnostic methods.",
+"quiz":[{"question":"Multiple sclerosis primarily affects which structure","choices":["Myelin sheath","Synapse","Axon terminal"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Pathology",
+"description":"Overview of disease mechanisms and cellular injury.",
+"subjectId":"69857b2353683e8b81ca91a3",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/pathology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces the basic mechanisms of disease and cellular response.",
+"quiz":[{"question":"What is the term for programmed cell death","choices":["Necrosis","Apoptosis","Autolysis"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Pathology Concepts",
+"description":"Detailed study of inflammation and neoplasia.",
+"subjectId":"69857b2353683e8b81ca91a3",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/pathology-advanced.pdf","type":"pdf"},
+"content":"This lecture explores chronic inflammation and tumor biology.",
+"quiz":[{"question":"Which term describes a benign tumor of epithelial origin","choices":["Carcinoma","Adenoma","Sarcoma"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to General Surgery",
+"description":"Overview of surgical principles and sterile techniques.",
+"subjectId":"69857b2353683e8b81ca91af",
+"doctorId":"698545777898f1262ac3c1e6",
+"file":{"url":"https://example.com/surgery-intro.pdf","type":"pdf"},
+"content":"This lecture introduces surgical tools, sterile fields, and basic procedures.",
+"quiz":[{"question":"Which tool is used for tissue retraction","choices":["Scalpel","Retractor","Forceps"],"correctAnswerIndex":1}]
+},
+{
+"title":"Surgical Techniques and Procedures",
+"description":"Exploring advanced surgical methods.",
+"subjectId":"69857b2353683e8b81ca91af",
+"doctorId":"698545777898f1262ac3c1e6",
+"file":{"url":"https://example.com/surgery-advanced.pdf","type":"pdf"},
+"content":"This lecture covers suturing, incision types, and operative planning.",
+"quiz":[{"question":"Which suture material is absorbable","choices":["Silk","Nylon","Vicryl"],"correctAnswerIndex":2}]
+},
+{
+"title":"Introduction to Human Anatomy",
+"description":"Overview of anatomical structures and body organization.",
+"subjectId":"69857b2353683e8b81ca9195",
+"doctorId":"698545777898f1262ac3c1ed",
+"file":{"url":"https://example.com/anatomy-intro.pdf","type":"pdf"},
+"content":"This lecture introduces anatomical terminology and structural organization.",
+"quiz":[{"question":"Which plane divides the body into left and right parts","choices":["Sagittal","Coronal","Transverse"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Human Anatomy",
+"description":"Detailed study of organ systems and anatomical variations.",
+"subjectId":"69857b2353683e8b81ca9195",
+"doctorId":"698545777898f1262ac3c1ed",
+"file":{"url":"https://example.com/anatomy-advanced.pdf","type":"pdf"},
+"content":"This lecture explores deeper anatomical structures and clinical correlations.",
+"quiz":[{"question":"Which organ is located in the mediastinum","choices":["Liver","Heart","Stomach"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Medical Sociology",
+"description":"Overview of social factors influencing health.",
+"subjectId":"69857b2353683e8b81ca919f",
+"doctorId":"698545777898f1262ac3c1ec",
+"file":{"url":"https://example.com/sociology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces the relationship between society and health outcomes.",
+"quiz":[{"question":"Which factor is considered a social determinant of health","choices":["Genetics","Income","Blood type"],"correctAnswerIndex":1}]
+},
+{
+"title":"Social Dynamics in Healthcare",
+"description":"Exploring cultural and societal impacts on medical practice.",
+"subjectId":"69857b2353683e8b81ca919f",
+"doctorId":"698545777898f1262ac3c1ec",
+"file":{"url":"https://example.com/sociology-advanced.pdf","type":"pdf"},
+"content":"This lecture examines cultural competence and patient‑provider interactions.",
+"quiz":[{"question":"Which concept refers to unequal access to healthcare","choices":["Health equity","Health disparity","Health literacy"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Pediatrics",
+"description":"Overview of child health and development.",
+"subjectId":"69857b2353683e8b81ca91b7",
+"doctorId":"698545777898f1262ac3c1e3",
+"file":{"url":"https://example.com/pediatrics-intro.pdf","type":"pdf"},
+"content":"This lecture introduces pediatric growth milestones and common conditions.",
+"quiz":[{"question":"At what age do most infants begin walking","choices":["6 months","12 months","18 months"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Pediatric Care",
+"description":"Clinical management of pediatric diseases.",
+"subjectId":"69857b2353683e8b81ca91b7",
+"doctorId":"698545777898f1262ac3c1e3",
+"file":{"url":"https://example.com/pediatrics-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced pediatric assessment and treatment.",
+"quiz":[{"question":"Which condition is common in premature infants","choices":["Asthma","Respiratory distress syndrome","Appendicitis"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Health Psychology",
+"description":"Overview of psychological influences on health.",
+"subjectId":"69857b2353683e8b81ca9197",
+"doctorId":"698545777898f1262ac3c1e4",
+"file":{"url":"https://example.com/psychology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces behavioral factors affecting physical health.",
+"quiz":[{"question":"Which factor increases stress resilience","choices":["Isolation","Social support","Sleep deprivation"],"correctAnswerIndex":1}]
+},
+{
+"title":"Behavioral Health and Illness",
+"description":"Exploring psychological responses to disease.",
+"subjectId":"69857b2353683e8b81ca9197",
+"doctorId":"698545777898f1262ac3c1e4",
+"file":{"url":"https://example.com/psychology-advanced.pdf","type":"pdf"},
+"content":"This lecture examines coping mechanisms and behavioral interventions.",
+"quiz":[{"question":"Which therapy is commonly used for anxiety","choices":["CBT","Chemotherapy","Dialysis"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Nephrology",
+"description":"Overview of kidney structure and function.",
+"subjectId":"69857b2353683e8b81ca91be",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/nephrology-intro.pdf","type":"pdf"},
+"content":"This lecture introduces renal physiology and common kidney disorders.",
+"quiz":[{"question":"Which structure filters blood in the kidney","choices":["Glomerulus","Loop of Henle","Ureter"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Renal Disorders",
+"description":"Deep study of kidney diseases and treatments.",
+"subjectId":"69857b2353683e8b81ca91be",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/nephrology-advanced.pdf","type":"pdf"},
+"content":"This lecture explores chronic kidney disease and dialysis principles.",
+"quiz":[{"question":"Dialysis replaces which kidney function","choices":["Hormone production","Filtration","Vitamin D activation"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Anatomy II",
+"description":"Overview of advanced anatomical structures.",
+"subjectId":"69857b2353683e8b81ca9199",
+"doctorId":"698545777898f1262ac3c1e6",
+"file":{"url":"https://example.com/anatomy2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces deeper anatomical regions and clinical relevance.",
+"quiz":[{"question":"Which bone is part of the axial skeleton","choices":["Femur","Humerus","Skull"],"correctAnswerIndex":2}]
+},
+{
+"title":"Advanced Anatomy II",
+"description":"Detailed exploration of anatomical variations.",
+"subjectId":"69857b2353683e8b81ca9199",
+"doctorId":"698545777898f1262ac3c1e6",
+"file":{"url":"https://example.com/anatomy2-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced structural relationships and surgical anatomy.",
+"quiz":[{"question":"Which artery supplies the brain","choices":["Femoral artery","Carotid artery","Radial artery"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Community Medicine",
+"description":"Overview of public health principles.",
+"subjectId":"69857b2353683e8b81ca91ad",
+"doctorId":"698545777898f1262ac3c1e4",
+"file":{"url":"https://example.com/community-intro.pdf","type":"pdf"},
+"content":"This lecture introduces epidemiology and preventive medicine.",
+"quiz":[{"question":"Which measure tracks disease frequency","choices":["Incidence","Resistance","Tolerance"],"correctAnswerIndex":0}]
+},
+{
+"title":"Public Health Strategies",
+"description":"Exploring health promotion and disease prevention.",
+"subjectId":"69857b2353683e8b81ca91ad",
+"doctorId":"698545777898f1262ac3c1e4",
+"file":{"url":"https://example.com/community-advanced.pdf","type":"pdf"},
+"content":"This lecture covers vaccination programs and community interventions.",
+"quiz":[{"question":"Which method prevents infectious disease spread","choices":["Isolation","Smoking","Malnutrition"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Obstetrics",
+"description":"Overview of pregnancy, labor, and delivery.",
+"subjectId":"69857b2353683e8b81ca91b1",
+"doctorId":"698545777898f1262ac3c1e8",
+"file":{"url":"https://example.com/obs-intro.pdf","type":"pdf"},
+"content":"This lecture introduces the fundamentals of obstetrics and maternal health.",
+"quiz":[{"question":"Which trimester includes organ formation","choices":["First","Second","Third"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Obstetric Care",
+"description":"Exploring complications and clinical management.",
+"subjectId":"69857b2353683e8b81ca91b1",
+"doctorId":"698545777898f1262ac3c1e8",
+"file":{"url":"https://example.com/obs-advanced.pdf","type":"pdf"},
+"content":"This lecture covers obstetric emergencies and fetal monitoring.",
+"quiz":[{"question":"Which condition is an obstetric emergency","choices":["Hypertension","Eclampsia","Anemia"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Medical Terminology",
+"description":"Understanding the language of medicine.",
+"subjectId":"69857b2353683e8b81ca918d",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/medterm-intro.pdf","type":"pdf"},
+"content":"This lecture introduces prefixes, suffixes, and root words used in medicine.",
+"quiz":[{"question":"What does the prefix 'cardio' refer to","choices":["Lungs","Heart","Brain"],"correctAnswerIndex":1}]
+},
+{
+"title":"Building Medical Vocabulary",
+"description":"Expanding terminology for clinical use.",
+"subjectId":"69857b2353683e8b81ca918d",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/medterm-advanced.pdf","type":"pdf"},
+"content":"This lecture explores complex medical terms and clinical abbreviations.",
+"quiz":[{"question":"What does 'BP' stand for","choices":["Blood pressure","Body pulse","Breathing pattern"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Internal Medicine II",
+"description":"Overview of systemic diseases and diagnostics.",
+"subjectId":"69857b2353683e8b81ca91b5",
+"doctorId":"698545777898f1262ac3c1ec",
+"file":{"url":"https://example.com/im2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces diagnostic approaches to internal diseases.",
+"quiz":[{"question":"Which test evaluates kidney function","choices":["CBC","Creatinine","ECG"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Internal Medicine II",
+"description":"Clinical management of chronic diseases.",
+"subjectId":"69857b2353683e8b81ca91b5",
+"doctorId":"698545777898f1262ac3c1ec",
+"file":{"url":"https://example.com/im2-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced diagnostic reasoning and treatment planning.",
+"quiz":[{"question":"Which condition is linked to insulin resistance","choices":["Type 2 diabetes","Asthma","Arthritis"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Biochemistry II",
+"description":"Overview of metabolic pathways and regulation.",
+"subjectId":"69857b2353683e8b81ca91a1",
+"doctorId":"698545777898f1262ac3c1e3",
+"file":{"url":"https://example.com/biochem2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces carbohydrate, lipid, and protein metabolism.",
+"quiz":[{"question":"Which molecule is the main energy currency","choices":["ATP","DNA","Glucose"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Biochemistry II",
+"description":"Deep dive into metabolic disorders.",
+"subjectId":"69857b2353683e8b81ca91a1",
+"doctorId":"698545777898f1262ac3c1e3",
+"file":{"url":"https://example.com/biochem2-advanced.pdf","type":"pdf"},
+"content":"This lecture explores enzyme deficiencies and metabolic diseases.",
+"quiz":[{"question":"Phenylketonuria affects metabolism of which amino acid","choices":["Lysine","Phenylalanine","Valine"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Dermatology II",
+"description":"Overview of skin diseases and diagnosis.",
+"subjectId":"69857b2353683e8b81ca91b9",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/derm2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces inflammatory and infectious skin conditions.",
+"quiz":[{"question":"Which condition is fungal","choices":["Psoriasis","Tinea","Eczema"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Dermatology II",
+"description":"Clinical dermatology and treatment strategies.",
+"subjectId":"69857b2353683e8b81ca91b9",
+"doctorId":"698545777898f1262ac3c1e5",
+"file":{"url":"https://example.com/derm2-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced dermatologic therapies and case studies.",
+"quiz":[{"question":"Which treatment is used for acne","choices":["Antibiotics","Insulin","Steroids"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Communication Skills",
+"description":"Basics of effective communication in healthcare.",
+"subjectId":"69857b2353683e8b81ca9191",
+"doctorId":"698545777898f1262ac3c1e9",
+"file":{"url":"https://example.com/comm-intro.pdf","type":"pdf"},
+"content":"This lecture introduces verbal and non‑verbal communication techniques.",
+"quiz":[{"question":"Which is an example of active listening","choices":["Interrupting","Nodding","Looking away"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Communication in Healthcare",
+"description":"Handling difficult conversations with patients.",
+"subjectId":"69857b2353683e8b81ca9191",
+"doctorId":"698545777898f1262ac3c1e9",
+"file":{"url":"https://example.com/comm-advanced.pdf","type":"pdf"},
+"content":"This lecture explores empathy, conflict resolution, and patient counseling.",
+"quiz":[{"question":"Which phrase shows empathy","choices":["Calm down","I understand this is difficult","You shouldn’t feel that way"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Endocrinology I",
+"description":"Overview of hormonal systems and regulation.",
+"subjectId":"69857b2353683e8b81ca91bd",
+"doctorId":"698545777898f1262ac3c1e9",
+"file":{"url":"https://example.com/endo-intro.pdf","type":"pdf"},
+"content":"This lecture introduces endocrine glands and hormone functions.",
+"quiz":[{"question":"Which gland produces insulin","choices":["Thyroid","Pancreas","Adrenal"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Endocrinology I",
+"description":"Exploring endocrine disorders and treatments.",
+"subjectId":"69857b2353683e8b81ca91bd",
+"doctorId":"698545777898f1262ac3c1e9",
+"file":{"url":"https://example.com/endo-advanced.pdf","type":"pdf"},
+"content":"This lecture covers diabetes, thyroid disorders, and hormonal imbalances.",
+"quiz":[{"question":"Hyperthyroidism is caused by excess","choices":["T3/T4","Insulin","Cortisol"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Organic Chemistry",
+"description":"Overview of carbon‑based molecules.",
+"subjectId":"69857b2353683e8b81ca9193",
+"doctorId":"698545777898f1262ac3c1eb",
+"file":{"url":"https://example.com/orgchem-intro.pdf","type":"pdf"},
+"content":"This lecture introduces functional groups and organic reactions.",
+"quiz":[{"question":"Which bond is found in alkanes","choices":["Double","Triple","Single"],"correctAnswerIndex":2}]
+},
+{
+"title":"Advanced Organic Chemistry",
+"description":"Exploring reaction mechanisms and synthesis.",
+"subjectId":"69857b2353683e8b81ca9193",
+"doctorId":"698545777898f1262ac3c1eb",
+"file":{"url":"https://example.com/orgchem-advanced.pdf","type":"pdf"},
+"content":"This lecture covers nucleophilic substitution and elimination reactions.",
+"quiz":[{"question":"SN1 reactions proceed through which intermediate","choices":["Carbocation","Carbanion","Radical"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Clinical Skills I",
+"description":"Basics of physical examination.",
+"subjectId":"69857b2353683e8b81ca91a6",
+"doctorId":"698545777898f1262ac3c1e8",
+"file":{"url":"https://example.com/clinical1-intro.pdf","type":"pdf"},
+"content":"This lecture introduces inspection, palpation, percussion, and auscultation.",
+"quiz":[{"question":"Which tool is used for auscultation","choices":["Stethoscope","Reflex hammer","Otoscope"],"correctAnswerIndex":0}]
+},
+{
+"title":"Advanced Clinical Skills I",
+"description":"Developing diagnostic examination techniques.",
+"subjectId":"69857b2353683e8b81ca91a6",
+"doctorId":"698545777898f1262ac3c1e8",
+"file":{"url":"https://example.com/clinical1-advanced.pdf","type":"pdf"},
+"content":"This lecture covers advanced physical exam maneuvers and clinical reasoning.",
+"quiz":[{"question":"Which sound indicates fluid in lungs","choices":["Crackles","Stridor","Wheezing"],"correctAnswerIndex":0}]
+},
+{
+"title":"Introduction to Advanced Biology",
+"description":"Overview of complex biological systems.",
+"subjectId":"69857b2353683e8b81ca9192",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/bio2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces molecular biology and genetic regulation.",
+"quiz":[{"question":"DNA is transcribed into","choices":["Protein","RNA","Lipids"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Biological Systems",
+"description":"Deep dive into cellular signaling and genetics.",
+"subjectId":"69857b2353683e8b81ca9192",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/bio2-advanced.pdf","type":"pdf"},
+"content":"This lecture explores gene expression, mutations, and cellular pathways.",
+"quiz":[{"question":"Which organelle produces ATP","choices":["Nucleus","Mitochondria","Golgi"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Pharmacology II",
+"description":"Overview of drug mechanisms and interactions.",
+"subjectId":"69857b2353683e8b81ca91a8",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/pharm2-intro.pdf","type":"pdf"},
+"content":"This lecture introduces pharmacokinetics and pharmacodynamics.",
+"quiz":[{"question":"Which term describes drug absorption","choices":["Distribution","Metabolism","Bioavailability"],"correctAnswerIndex":2}]
+},
+{
+"title":"Advanced Pharmacology II",
+"description":"Exploring therapeutic drug classes.",
+"subjectId":"69857b2353683e8b81ca91a8",
+"doctorId":"698545777898f1262ac3c1ea",
+"file":{"url":"https://example.com/pharm2-advanced.pdf","type":"pdf"},
+"content":"This lecture covers antibiotics, antivirals, and drug toxicity.",
+"quiz":[{"question":"Which drug class treats bacterial infections","choices":["Antivirals","Antibiotics","Antifungals"],"correctAnswerIndex":1}]
+},
+{
+"title":"Introduction to Physiology I",
+"description":"Overview of body systems and homeostasis.",
+"subjectId":"69857b2353683e8b81ca919a",
+"doctorId":"698545777898f1262ac3c1e7",
+"file":{"url":"https://example.com/physio1-intro.pdf","type":"pdf"},
+"content":"This lecture introduces cardiovascular, respiratory, and renal physiology.",
+"quiz":[{"question":"Which organ regulates blood filtration","choices":["Heart","Kidney","Liver"],"correctAnswerIndex":1}]
+},
+{
+"title":"Advanced Physiology I",
+"description":"Deep study of physiological regulation.",
+"subjectId":"69857b2353683e8b81ca919a",
+"doctorId":"698545777898f1262ac3c1e7",
+"file":{"url":"https://example.com/physio1-advanced.pdf","type":"pdf"},
+"content":"This lecture explores neural control, hormonal regulation, and feedback loops.",
+"quiz":[{"question":"Which system controls fight‑or‑flight","choices":["Parasympathetic","Sympathetic","Somatic"],"correctAnswerIndex":1}]
+}
+]

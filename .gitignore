@@ -1,0 +1,14 @@
+node_modules/
+
+config.env
+
+config.env.test
+
+
+uploads/``
+
+logs/``
+
+chat-Application-output.md
+
+chat-Application-output.txt
